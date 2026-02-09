@@ -23,7 +23,7 @@ This project focuses not only on application development but also on making the 
 
 ## 🏗️ Architecture Overview
 
-![Project Architecture](./architecture.png)
+![Project Architecture](./assets/architecture.png)
 
 This diagram represents the complete DevOps workflow of the project, including
 source control, CI pipeline, Docker image creation, and container execution.
